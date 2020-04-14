@@ -15,7 +15,7 @@ WordPress website.
 completely.
 That being said, let’s see how to easily disable theme and plugin editors in WordPress.
 
-**How to Disable Theme and Plugin Editors in WordPress**
+## **How to Disable Theme and Plugin Editors in WordPress**
 >Disabling theme and plugin editors in WordPress is quite easy.
 
 >Simply edit your wp-config.php file and paste the following code just before the line that
