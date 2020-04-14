@@ -1,4 +1,4 @@
-|Version Control| File Saftey | Malware Protection | Password Protection |Security Infrastructure | SystemHardening |              
+|Version Control| File Saftey | Malware Protection | Password Protection |Security Infrastructure | System Hardening |              
 | -------------------------- | ----------- | ------------------ | ------------------- | ----------------------- | ---------------- |
 |Platform Defense|Integrity Defense|Malware and Bot Defense|Prevent Unauthorized Access|Prevent and Detect SuspiciousActivity|Configuration Best Practices|
 |[Secure Hosting](https://www.bluehost.com)|[Disable File Editing](https://www.wpbeginner.com/wp-tutorials/disable-directory-browsing-wordpress/)|[Malware Scanner](https://wordpress.org/plugins/wordfence/)|[Limit Log In Attempts](https://github.com/FullstackAcademy/wordpress-defense-matrix/blob/master/Limit%20Login%20Attempts.pdf)|[Firewall Security](https://sucuri.net/website-firewall/)|[Disable Arbitrary PHP Execution](https://www.malcare.com/blog/disable-php-execution-directory-browsing/)|
